@@ -1,7 +1,7 @@
 {
-	"name": "La Rock & Pop",
-	"short_name": "La Rock & Pop",
-	"description": "El Equilibrio de la Radio",
+	"name": "Neutro C",
+	"short_name": "Neutro C",
+	"description": "Tu Música, Tu estilo",
 	"icons" : [
 		 {
             "src": "imagenes/app.png",
